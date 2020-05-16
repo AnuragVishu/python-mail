@@ -1,0 +1,11 @@
+Hello ${PERSON_NAME}, 
+
+The following is the todays work status:
+
+${WORK_STATUS}
+
+Thanks and Regards
+Anurag Vishwakarma
+
+Software Engineer
+ABC XYZ
